@@ -1,5 +1,7 @@
 # Desafio Sênior
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Typical_Tetris_Game.svg/640px-Typical_Tetris_Game.svg.png" width="100" height="200" />
+
 ## Tetris App
 
 ### Tecnologias Utilizadas
